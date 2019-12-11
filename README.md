@@ -16,6 +16,10 @@
 
 #### Tareas a realizar:
 
-1. [Acceder de forma anonima](https://github.com/MoralG/Trabajando_Servidor_FTP/blob/master/Servidor_FTP.md#1-tenemos-un-sitio-web-y-un-sitio-ftp-queremos-que-cuando-accedamos-a-wwwiesgnorgdocumentos-aparecen-una-lista-de-documentos-como-nas-cuando-accedamos-de-forma-an%C3%B3nima-al-ftp-accedemos-al-mismo-directorio-documentos). Tenemos un sitio web y un sitio ftp, queremos que cuando accedamos a www.iesgn.org/documentos, aparecen una lista de documentos (como NAS). Cuando accedamos de forma anónima al FTP, accedemos al mismo directorio /documentos.
+1. [Acceder de forma anonima](https://github.com/MoralG/Trabajando_Servidor_FTP/blob/master/Servidor_FTP.md#1-tenemos-un-sitio-web-y-un-sitio-ftp-queremos-que-cuando-accedamos-a-wwwiesgnorgdocumentos-aparecen-una-lista-de-documentos-como-nas-cuando-accedamos-de-forma-an%C3%B3nima-al-ftp-accedemos-al-mismo-directorio-documentos). 
 
-2. [Acceder con usuario y contraseña](https://github.com/MoralG/Trabajando_Servidor_FTP/blob/master/Servidor_FTP.md#2-crear-un-virtualhost-en-apache-y-subir-por-ftp-con-un-usuario-concreto-ficheros-a-ese-virtualhost). Crear un virtualhost en Apache y subir por FTP, con un usuario concreto, ficheros a ese virtualhost.
+Tenemos un sitio web y un sitio ftp, queremos que cuando accedamos a 'www.iesgn.org/documentos', aparecen una lista de documentos (como NAS). Cuando accedamos de forma anónima al FTP, accedemos al mismo directorio /documentos.
+
+2. [Acceder con usuario y contraseña](https://github.com/MoralG/Trabajando_Servidor_FTP/blob/master/Servidor_FTP.md#2-crear-un-virtualhost-en-apache-y-subir-por-ftp-con-un-usuario-concreto-ficheros-a-ese-virtualhost). 
+
+Crear un virtualhost en Apache y subir por FTP, con un usuario concreto, ficheros a ese virtualhost.
